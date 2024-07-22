@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9db8b9e9-5d1c-473d-9b78-fdbada40feef" name="Changes" comment="Listener creation - EventListener interface and EmailNotification class" />
+    <list default="true" id="9db8b9e9-5d1c-473d-9b78-fdbada40feef" name="Changes" comment="Observable creation - Stock class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/imf/observers/StockHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/imf/observable/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/imf/observable/Stock.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721645497545</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Observable creation - Stock class">
+      <option name="closed" value="true" />
+      <created>1721645722517</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721645722518</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -88,6 +100,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Gradle commit" />
     <MESSAGE value="Listener creation - EventListener interface and EmailNotification class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Listener creation - EventListener interface and EmailNotification class" />
+    <MESSAGE value="Observable creation - Stock class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Observable creation - Stock class" />
   </component>
 </project>
